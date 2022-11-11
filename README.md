@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @brunscii
-- 👀 I’m interested in learning
+- 👋 Hi, I’m Chris
+- 👀 I’m interested in learning can creating
 - 🌱 I’m currently learning to collaborate
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me brunscii@gmail.com
