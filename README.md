@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Chris
-- 👀 I’m interested in learning can creating
-- 🌱 I’m currently learning to collaborate
-- 💞️ I’m looking to collaborate on anything
+- 👋 I'm Chris, a web developer that is currently learning react, d3, redux.
+- I like SCSS and jQuery.
+- My love of programming goes back to my first year of college in 2008, when I took a class in C++. 
+- I learned C++, C#, Java, Python 2.6, abd VB.NET in college
+- I learned Python 3.X, JavaScript, HTML and CSS on my own using resources like freeCodeCamp, MDN, youtube, and tons of practice 
+
 - 📫 How to reach me brunscii@gmail.com
+
+
 
 <!---
 brunscii/brunscii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
