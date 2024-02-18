@@ -1,20 +1,13 @@
 # brunscii's (Chris's) github
 
-Hi, my name is chris. I am a web developer that is always looking to learn. The more we know, the quicker we can pick up new skills. 
+Hi, my name is Chris and I'm a Web Developer/Data Analyst that is always looking to learn. The more we know, the quicker we can pick up new skills. 
 
-Some things I really like
-- SCSS
-- jQuery
-- C++ 
-- C#
-- Python
+I ♥️ markdown and writting code
 
-My love of programming goes back to my first year of college in 2008, when I took a class in C++. 
-I learned C++, C#, Java, Python 2.6, and VB.NET in community college before transferring to UNCW. There, I learned data structures, algorithms, ASM, digital arts, and some of the more conceptual bits of computer science. At the time UNCW used Java almost exclusively. 
+My love of programming goes back to my first year of college in 2008 when I took a class in C++. I instantly fell in love with the ability to create and solve problems that programming gave me. 
+I learned C++, C#, Java, Python 2.5, and VB.NET at the local college. There I also took plenty of IT courses and learned the ins-and-outs of linux, networking, and hardware. Later I transferred to UNCW where I learned data structures, algorithms, ASM, digital arts, and some of the more conceptual bits of computer science. 
 
-I later learned Python 3.X, HTML, CSS, JavaScript, and REACT on my own using resources like freeCodeCamp, MDN, youtube, and tons of practice.
-
-I love to learn and create new things. I often find that you will truly realize how little you know about something when you start building from scratch. 
+In more recent years I have learned Python 3.X, SQL, Pandas, HTML, (s)CSS, JavaScript, TypeScript, Node, React and more on my own using resources like freeCodeCamp, MDN, youtube, Coursera, and tons of practice.
 
 📫 How to reach me brunscii@gmail.com
 
